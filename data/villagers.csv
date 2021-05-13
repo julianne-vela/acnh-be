@@ -1,0 +1,392 @@
+name,personality,birthday,species,gender,hobby,catch_phrase,icon_uri,image_uri,bubble_color,text_color,saying
+Cyrano,Cranky,March 9th,Anteater,Male,Education,ah-CHOO,https://acnhapi.com/v1/icons/villagers/1,https://acnhapi.com/v1/images/villagers/1,#194c89,#fffad4,Don't punch your nose to spite your face.
+Antonio,Jock,October 20th,Anteater,Male,Fitness,honk,https://acnhapi.com/v1/icons/villagers/2,https://acnhapi.com/v1/images/villagers/2,#fff98f,#879b96,Always go for the burn!
+Pango,Peppy,November 9th,Anteater,Female,Fashion,snooooof,https://acnhapi.com/v1/icons/villagers/3,https://acnhapi.com/v1/images/villagers/3,#00d1bd,#fffce9,A thing of beauty is a joy forever.
+Anabelle,Peppy,February 16th,Anteater,Female,Fashion,snorty,https://acnhapi.com/v1/icons/villagers/4,https://acnhapi.com/v1/images/villagers/4,#ff791f,#fff2bb,Dance like no one's watching!
+Snooty,Snooty,October 24th,Anteater,Female,Education,sniffff,https://acnhapi.com/v1/icons/villagers/5,https://acnhapi.com/v1/images/villagers/5,#f2bdc7,#634b4b,"Request forgiveness, not permission."
+Annalisa,Normal,February 6th,Anteater,Female,Nature,gumdrop,https://acnhapi.com/v1/icons/villagers/6,https://acnhapi.com/v1/images/villagers/6,#ffffff,#848484,Home is where the heart is.
+Olaf,Smug,May 19th,Anteater,Male,Education,whiffa,https://acnhapi.com/v1/icons/villagers/7,https://acnhapi.com/v1/images/villagers/7,#ff791f,#fff2bb,Keep your nose clean.
+Teddy,Jock,September 26th,Bear,Male,Fitness,grooof,https://acnhapi.com/v1/icons/villagers/8,https://acnhapi.com/v1/images/villagers/8,#ff791f,#fff2bb,"No pain, no gain!"
+Pinky,Peppy,September 9th,Bear,Female,Fashion,wah,https://acnhapi.com/v1/icons/villagers/9,https://acnhapi.com/v1/images/villagers/9,#fff98f,#879b96,Time spent with friends is time well spent.
+Curt,Cranky,July 1st,Bear,Male,Nature,fuzzball,https://acnhapi.com/v1/icons/villagers/10,https://acnhapi.com/v1/images/villagers/10,#515151,#fffce9,A Bell saved is a Bell earned.
+Chow,Cranky,July 22nd,Bear,Male,Fitness,aiya,https://acnhapi.com/v1/icons/villagers/11,https://acnhapi.com/v1/images/villagers/11,#f2bdc7,#634b4b,All good things must come to an end.
+Nate,Lazy,August 16th,Bear,Male,Play,yawwwn,https://acnhapi.com/v1/icons/villagers/12,https://acnhapi.com/v1/images/villagers/12,#e8b010,#fffce9,Be true to yourself.
+Groucho,Cranky,October 23rd,Bear,Male,Music,grumble,https://acnhapi.com/v1/icons/villagers/13,https://acnhapi.com/v1/images/villagers/13,#194c89,#fffad4,Rocky road is more than just a flavor of ice cream.
+Tutu,Peppy,September 15th,Bear,Female,Fashion,twinkles,https://acnhapi.com/v1/icons/villagers/14,https://acnhapi.com/v1/images/villagers/14,#ffffff,#848484,Even the best of friends start out as strangers.
+Ursala,Uchi,January 16th,Bear,Female,Music,grooomph,https://acnhapi.com/v1/icons/villagers/15,https://acnhapi.com/v1/images/villagers/15,#f2bdc7,#634b4b,Surround yourself with things you love.
+Grizzly,Cranky,July 31st,Bear,Male,Education,grrr,https://acnhapi.com/v1/icons/villagers/16,https://acnhapi.com/v1/images/villagers/16,#7c6559,#eac113,Those who live in glass houses shouldn't throw stones.
+Paula,Uchi,March 22nd,Bear,Female,Fitness,yodelay,https://acnhapi.com/v1/icons/villagers/17,https://acnhapi.com/v1/images/villagers/17,#e8b010,#fffce9,Trends always make a comeback.
+Ike,Cranky,May 16th,Bear,Male,Nature,roadie,https://acnhapi.com/v1/icons/villagers/18,https://acnhapi.com/v1/images/villagers/18,#4c3317,#fffce9,"The higher you climb, the smaller things look."
+Charlise,Uchi,April 17th,Bear,Female,Fitness,urgh,https://acnhapi.com/v1/icons/villagers/19,https://acnhapi.com/v1/images/villagers/19,#78dd62,#28665a,Actions speak louder than words.
+Beardo,Smug,September 27th,Bear,Male,Education,whiskers,https://acnhapi.com/v1/icons/villagers/20,https://acnhapi.com/v1/images/villagers/20,#3fd8e0,#fffce9,Fashion first!
+Klaus,Smug,March 31st,Bear,Male,Education,strudel,https://acnhapi.com/v1/icons/villagers/21,https://acnhapi.com/v1/images/villagers/21,#acc8cf,#498992,Pride goes before a fall.
+Megan,Normal,March 13th,Bear,Female,Nature,sundae,https://acnhapi.com/v1/icons/villagers/22,https://acnhapi.com/v1/images/villagers/22,#ec7efc,#fffce9,"Take a page out of someone else's book, if it's a good book."
+Jay,Jock,July 17th,Bird,Male,Fitness,heeeeeyy,https://acnhapi.com/v1/icons/villagers/23,https://acnhapi.com/v1/images/villagers/23,#6b75ce,#9ae8df,He who hesitates has lost.
+Robin,Snooty,December 4th,Bird,Female,Fashion,la-di-da,https://acnhapi.com/v1/icons/villagers/24,https://acnhapi.com/v1/images/villagers/24,#6b75ce,#9ae8df,Always keep your wings manicured so you can fly away.
+Anchovy,Lazy,March 4th,Bird,Male,Play,chuurp,https://acnhapi.com/v1/icons/villagers/25,https://acnhapi.com/v1/images/villagers/25,#d86808,#fffce9,Why do today what you can put off until tomorrow?
+Twiggy,Peppy,July 13th,Bird,Female,Fashion,cheepers,https://acnhapi.com/v1/icons/villagers/26,https://acnhapi.com/v1/images/villagers/26,#fff80d,#9b8986,It's the early bird that catches the worm!
+Jitters,Jock,February 2nd,Bird,Male,Fitness,bzzert,https://acnhapi.com/v1/icons/villagers/27,https://acnhapi.com/v1/images/villagers/27,#78dd62,#28665a,"When you're a team of one, you're always captain!"
+Piper,Peppy,April 18th,Bird,Female,Play,chickadee,https://acnhapi.com/v1/icons/villagers/28,https://acnhapi.com/v1/images/villagers/28,#ffffff,#848484,"Where there's life, there's hope."
+Admiral,Cranky,January 27th,Bird,Male,Nature,aye aye,https://acnhapi.com/v1/icons/villagers/29,https://acnhapi.com/v1/images/villagers/29,#0ca54a,#fffce9,Only quitters give up.
+Midge,Normal,March 12th,Bird,Female,Education,tweedledee,https://acnhapi.com/v1/icons/villagers/30,https://acnhapi.com/v1/images/villagers/30,#ec7efc,#fffce9,"When the world gets cold, just fly south."
+Jacob,Lazy,August 24th,Bird,Male,Nature,ya feel,https://acnhapi.com/v1/icons/villagers/31,https://acnhapi.com/v1/images/villagers/31,#ffffff,#848484,Your greatest strength can be your greatest weakness.
+Lucha,Smug,December 12th,Bird,Male,Fitness,cacaw,https://acnhapi.com/v1/icons/villagers/32,https://acnhapi.com/v1/images/villagers/32,#ff4040,#fffad4,"Birds of a feather, et cetera, et cetera..."
+Jacques,Smug,June 22nd,Bird,Male,Music,zut alors,https://acnhapi.com/v1/icons/villagers/33,https://acnhapi.com/v1/images/villagers/33,#194c89,#fffad4,Better to have loved and squawked than to have never loved at all.
+Peck,Jock,July 25th,Bird,Male,Play,crunch,https://acnhapi.com/v1/icons/villagers/34,https://acnhapi.com/v1/images/villagers/34,#4c3317,#fffce9,The best defense is a good offense.
+Sparro,Jock,November 20th,Bird,Male,Play,like whoa,https://acnhapi.com/v1/icons/villagers/35,https://acnhapi.com/v1/images/villagers/35,#7a2500,#fffce9,The proof of the pudding is in the eating.
+Angus,Cranky,April 30th,Bull,Male,Fitness,macmoo,https://acnhapi.com/v1/icons/villagers/36,https://acnhapi.com/v1/images/villagers/36,#ff791f,#fff2bb,Even strong bulls cry.
+Rodeo,Lazy,October 29th,Bull,Male,Fitness,chaps,https://acnhapi.com/v1/icons/villagers/37,https://acnhapi.com/v1/images/villagers/37,#515151,#fffce9,Zzzzzzzzzzzzzzzzz...
+Stu,Lazy,April 20th,Bull,Male,Nature,mrooooo,https://acnhapi.com/v1/icons/villagers/38,https://acnhapi.com/v1/images/villagers/38,#6b75ce,#9ae8df,"As a cow grows, so do its nostrils."
+T-Bone,Cranky,May 20th,Bull,Male,Education,moocher,https://acnhapi.com/v1/icons/villagers/39,https://acnhapi.com/v1/images/villagers/39,#acc8cf,#498992,Don't have a cow.
+Coach,Jock,April 29th,Bull,Male,Fitness,stubble,https://acnhapi.com/v1/icons/villagers/40,https://acnhapi.com/v1/images/villagers/40,#ffd00d,#9b553a,"Fool me once, shame on you. Fool me twice, shame on me."
+Vic,Cranky,December 29th,Bull,Male,Fitness,cud,https://acnhapi.com/v1/icons/villagers/41,https://acnhapi.com/v1/images/villagers/41,#c0ab72,#fffce9,"You mess with the bull, you get the horns."
+Bob,Lazy,January 1st,Cat,Male,Play,pthhpth,https://acnhapi.com/v1/icons/villagers/42,https://acnhapi.com/v1/images/villagers/42,#a06fce,#fffce9,You only live once...or nine times.
+Mitzi,Normal,September 25th,Cat,Female,Education,mew,https://acnhapi.com/v1/icons/villagers/43,https://acnhapi.com/v1/images/villagers/43,#7fa9ff,#fffce9,Practice makes purrrfect!
+Rosie,Peppy,February 27th,Cat,Female,Music,silly,https://acnhapi.com/v1/icons/villagers/44,https://acnhapi.com/v1/images/villagers/44,#7fa9ff,#fffce9,One good purr deserves another.
+Olivia,Snooty,February 3rd,Cat,Female,Music,purrr,https://acnhapi.com/v1/icons/villagers/45,https://acnhapi.com/v1/images/villagers/45,#ffffff,#848484,There's an exception to every rule.
+Kiki,Normal,October 8th,Cat,Female,Education,kitty cat,https://acnhapi.com/v1/icons/villagers/46,https://acnhapi.com/v1/images/villagers/46,#515151,#fffce9,"Nothing ventured, nothing gained."
+Tangy,Peppy,June 17th,Cat,Female,Music,reeeeOWR,https://acnhapi.com/v1/icons/villagers/47,https://acnhapi.com/v1/images/villagers/47,#ffd00d,#9b553a,"When life gives you lemons, make lemonade!"
+Punchy,Lazy,April 11th,Cat,Male,Play,mrmpht,https://acnhapi.com/v1/icons/villagers/48,https://acnhapi.com/v1/images/villagers/48,#ffffff,#848484,There's always more fish in the sea!
+Purrl,Snooty,May 29th,Cat,Female,Fashion,kitten,https://acnhapi.com/v1/icons/villagers/49,https://acnhapi.com/v1/images/villagers/49,#ffffff,#848484,Let them drink cream.
+Moe,Lazy,January 12th,Cat,Male,Play,myawn,https://acnhapi.com/v1/icons/villagers/50,https://acnhapi.com/v1/images/villagers/50,#0961f6,#fffce9,Ignorance is bliss.
+Kabuki,Cranky,November 29th,Cat,Male,Music,meooo-OH,https://acnhapi.com/v1/icons/villagers/51,https://acnhapi.com/v1/images/villagers/51,#ffffff,#848484,"If you make your opponent flinch, you have already won."
+Kid Cat,Jock,August 1st,Cat,Male,Fitness,psst,https://acnhapi.com/v1/icons/villagers/52,https://acnhapi.com/v1/images/villagers/52,#ff4040,#fffad4,Crime doesn't pay!
+Monique,Snooty,September 30th,Cat,Female,Fashion,pffffft,https://acnhapi.com/v1/icons/villagers/53,https://acnhapi.com/v1/images/villagers/53,#fff98f,#879b96,All publicity is good publicity!
+Tabby,Peppy,August 13th,Cat,Female,Music,me-WOW,https://acnhapi.com/v1/icons/villagers/54,https://acnhapi.com/v1/images/villagers/54,#ff791f,#fff2bb,You can never have too much of a good thing!
+Stinky,Jock,August 17th,Cat,Male,Fitness,GAAHHH,https://acnhapi.com/v1/icons/villagers/55,https://acnhapi.com/v1/images/villagers/55,#d8cc39,#8b5f57,"If the mask fits, wear it!"
+Kitty,Snooty,February 15th,Cat,Female,Fashion,mrowrr,https://acnhapi.com/v1/icons/villagers/56,https://acnhapi.com/v1/images/villagers/56,#c0ab72,#fffce9,"If you want something done well, do it yourself."
+Tom,Cranky,December 10th,Cat,Male,Education,me-YOWZA,https://acnhapi.com/v1/icons/villagers/57,https://acnhapi.com/v1/images/villagers/57,#0961f6,#fffce9,There's no use crying over spilled milk.
+Merry,Peppy,June 29th,Cat,Female,Fashion,mweee,https://acnhapi.com/v1/icons/villagers/58,https://acnhapi.com/v1/images/villagers/58,#fff98f,#879b96,A smile increases your face value.
+Felicity,Peppy,March 30th,Cat,Female,Fashion,mimimi,https://acnhapi.com/v1/icons/villagers/59,https://acnhapi.com/v1/images/villagers/59,#fff98f,#879b96,Love has no bounds.
+Lolly,Normal,March 27th,Cat,Female,Music,bonbon,https://acnhapi.com/v1/icons/villagers/60,https://acnhapi.com/v1/images/villagers/60,#bff2ff,#85a2af,Laughter is the best medicine.
+Ankha,Snooty,September 22nd,Cat,Female,Nature,me meow,https://acnhapi.com/v1/icons/villagers/61,https://acnhapi.com/v1/images/villagers/61,#fff80d,#9b8986,All that glitters is not gold.
+Rudy,Jock,December 20th,Cat,Male,Play,mush,https://acnhapi.com/v1/icons/villagers/62,https://acnhapi.com/v1/images/villagers/62,#7a2500,#fffce9,Always land on your feet!
+Katt,Uchi,April 27th,Cat,Female,Music,purrty,https://acnhapi.com/v1/icons/villagers/63,https://acnhapi.com/v1/images/villagers/63,#a87850,#fffce9,MeowMEOWmeow!
+Raymond,Smug,October 1st,Cat,Male,Nature,crisp,https://acnhapi.com/v1/icons/villagers/64,https://acnhapi.com/v1/images/villagers/64,#acc8cf,#498992,Stay on brand!
+Bluebear,Peppy,June 24th,Cub,Female,Fashion,peach,https://acnhapi.com/v1/icons/villagers/65,https://acnhapi.com/v1/images/villagers/65,#3fd8e0,#fffce9,Candy makes the world go 'round.
+Maple,Normal,June 15th,Cub,Female,Education,honey,https://acnhapi.com/v1/icons/villagers/66,https://acnhapi.com/v1/images/villagers/66,#a87850,#fffce9,"Waste not, want not."
+Poncho,Jock,January 2nd,Cub,Male,Fitness,li'l bear,https://acnhapi.com/v1/icons/villagers/67,https://acnhapi.com/v1/images/villagers/67,#194c89,#fffad4,Fortune favors the brave!
+Pudge,Lazy,June 11th,Cub,Male,Play,golly,https://acnhapi.com/v1/icons/villagers/68,https://acnhapi.com/v1/images/villagers/68,#ff791f,#fff2bb,There's no such thing as a free lunch.
+Kody,Jock,September 28th,Cub,Male,Fitness,grah grah,https://acnhapi.com/v1/icons/villagers/69,https://acnhapi.com/v1/images/villagers/69,#55cfff,#fffce9,The sky's the limit!
+Stitches,Lazy,February 10th,Cub,Male,Play,stuffin',https://acnhapi.com/v1/icons/villagers/70,https://acnhapi.com/v1/images/villagers/70,#ffaa3b,#874c25,A stitch in time saves nine.
+Vladimir,Cranky,August 2nd,Cub,Male,Play,nyet,https://acnhapi.com/v1/icons/villagers/71,https://acnhapi.com/v1/images/villagers/71,#ff6183,#fffce9,Trouble never comes alone.
+Murphy,Cranky,December 29th,Cub,Male,Education,malarkey,https://acnhapi.com/v1/icons/villagers/72,https://acnhapi.com/v1/images/villagers/72,#78dd62,#28665a,"More money, more problems."
+Olive,Normal,July 12th,Cub,Female,Nature,sweet pea,https://acnhapi.com/v1/icons/villagers/73,https://acnhapi.com/v1/images/villagers/73,#bfbfbf,#5e5e5e,Sticky fingers attract bees.
+Cheri,Peppy,March 17th,Cub,Female,Fashion,tralala,https://acnhapi.com/v1/icons/villagers/74,https://acnhapi.com/v1/images/villagers/74,#db6161,#fffce9,Good things come in small packages.
+June,Normal,May 21st,Cub,Female,Nature,rainbow,https://acnhapi.com/v1/icons/villagers/75,https://acnhapi.com/v1/images/villagers/75,#c0ab72,#fffce9,"Dream big, expect little."
+Pekoe,Normal,May 18th,Cub,Female,Nature,bud,https://acnhapi.com/v1/icons/villagers/76,https://acnhapi.com/v1/images/villagers/76,#ffffff,#848484,Let bygones be bygones.
+Chester,Lazy,August 6th,Cub,Male,Play,rookie,https://acnhapi.com/v1/icons/villagers/77,https://acnhapi.com/v1/images/villagers/77,#ffffff,#848484,Sleep early. Wake late.
+Barold,Lazy,March 2nd,Cub,Male,Play,cubby,https://acnhapi.com/v1/icons/villagers/78,https://acnhapi.com/v1/images/villagers/78,#bfbfbf,#5e5e5e,Please DO feed the bears!
+Tammy,Uchi,June 23rd,Cub,Female,Play,ya heard,https://acnhapi.com/v1/icons/villagers/79,https://acnhapi.com/v1/images/villagers/79,#fff80d,#9b8986,"If a job is worth doing, do it right!"
+Judy,Snooty,March 10th,Cub,Female,Music,myohmy,https://acnhapi.com/v1/icons/villagers/80,https://acnhapi.com/v1/images/villagers/80,#ffebff,#725661,I'm dancing my dreams away.
+Goose,Jock,October 4th,Chicken,Male,Fitness,buh-kay,https://acnhapi.com/v1/icons/villagers/81,https://acnhapi.com/v1/images/villagers/81,#ffffff,#848484,Birds of a feather crow together.
+Benedict,Lazy,October 10th,Chicken,Male,Play,uh-hoo,https://acnhapi.com/v1/icons/villagers/82,https://acnhapi.com/v1/images/villagers/82,#ff4040,#fffad4,Don't put all your eggs in one basket.
+Egbert,Lazy,October 14th,Chicken,Male,Play,doodle-duh,https://acnhapi.com/v1/icons/villagers/83,https://acnhapi.com/v1/images/villagers/83,#ffd00d,#9b553a,You gotta break a few eggs to make an omelet.
+Ava,Normal,April 28th,Chicken,Female,Music,beaker,https://acnhapi.com/v1/icons/villagers/84,https://acnhapi.com/v1/images/villagers/84,#e8b010,#fffce9,"Early to bed, early to rise."
+Becky,Snooty,December 9th,Chicken,Female,Music,chicklet,https://acnhapi.com/v1/icons/villagers/85,https://acnhapi.com/v1/images/villagers/85,#a06fce,#fffce9,A fool and his Bells are soon parted.
+Plucky,Uchi,October 12th,Chicken,Female,Play,chicky-poo,https://acnhapi.com/v1/icons/villagers/86,https://acnhapi.com/v1/images/villagers/86,#7c6559,#eac113,Keep your crumbs out of the bed.
+Knox,Cranky,November 23rd,Chicken,Male,Education,cluckling,https://acnhapi.com/v1/icons/villagers/87,https://acnhapi.com/v1/images/villagers/87,#d8cc39,#8b5f57,A chicken's coop is its castle.
+Broffina,Snooty,October 24th,Chicken,Female,Music,cluckadoo,https://acnhapi.com/v1/icons/villagers/88,https://acnhapi.com/v1/images/villagers/88,#ff791f,#fff2bb,Don't peck the hand that feeds you.
+Ken,Smug,December 23rd,Chicken,Male,Education,no doubt,https://acnhapi.com/v1/icons/villagers/89,https://acnhapi.com/v1/images/villagers/89,#6b75ce,#9ae8df,C'est la vie!
+Patty,Peppy,May 10th,Cow,Female,Fashion,how-now,https://acnhapi.com/v1/icons/villagers/90,https://acnhapi.com/v1/images/villagers/90,#7a2500,#fffce9,A friend in need is a friend indeed!
+Tipper,Snooty,August 25th,Cow,Female,Fashion,pushy,https://acnhapi.com/v1/icons/villagers/91,https://acnhapi.com/v1/images/villagers/91,#ffffff,#848484,It takes two to tango.
+Norma,Normal,September 20th,Cow,Female,Nature,hoof hoo,https://acnhapi.com/v1/icons/villagers/92,https://acnhapi.com/v1/images/villagers/92,#f2bdc7,#634b4b,"If you want what you have, then you'll have what you want."
+Naomi,Snooty,February 28th,Cow,Female,Fashion,moolah,https://acnhapi.com/v1/icons/villagers/93,https://acnhapi.com/v1/images/villagers/93,#3fd8e0,#fffce9,Moo like there's no tomorrow.
+Alfonso,Lazy,June 9th,Alligator,Male,Play,it'sa me,https://acnhapi.com/v1/icons/villagers/94,https://acnhapi.com/v1/images/villagers/94,#e8b010,#fffce9,Slow and steady wins the race.
+Alli,Snooty,November 8th,Alligator,Female,Fashion,graaagh,https://acnhapi.com/v1/icons/villagers/95,https://acnhapi.com/v1/images/villagers/95,#3fd8e0,#fffce9,Think before you act.
+Boots,Jock,August 7th,Alligator,Male,Play,munchie,https://acnhapi.com/v1/icons/villagers/96,https://acnhapi.com/v1/images/villagers/96,#0ca54a,#fffce9,Strength lies in muscles.
+Del,Cranky,May 27th,Alligator,Male,Fitness,gronk,https://acnhapi.com/v1/icons/villagers/97,https://acnhapi.com/v1/images/villagers/97,#6b75ce,#9ae8df,The hero is brave in deeds as well as words.
+Sly,Jock,November 15th,Alligator,Male,Play,hoo-rah,https://acnhapi.com/v1/icons/villagers/98,https://acnhapi.com/v1/images/villagers/98,#e8b010,#fffce9,Don't bite off more than you can chew.
+Gayle,Normal,May 17th,Alligator,Female,Nature,snacky,https://acnhapi.com/v1/icons/villagers/99,https://acnhapi.com/v1/images/villagers/99,#f993ce,#fffce9,An ounce of prevention is worth a pound of cure.
+Drago,Lazy,February 12th,Alligator,Male,Nature,burrrn,https://acnhapi.com/v1/icons/villagers/100,https://acnhapi.com/v1/images/villagers/100,#78dd62,#28665a,There is no room for two dragons in one pond.
+Fauna,Normal,March 26th,Deer,Female,Nature,dearie,https://acnhapi.com/v1/icons/villagers/101,https://acnhapi.com/v1/images/villagers/101,#7a2500,#fffce9,The first step is always the hardest.
+Bam,Jock,November 7th,Deer,Male,Play,kablang,https://acnhapi.com/v1/icons/villagers/102,https://acnhapi.com/v1/images/villagers/102,#0961f6,#fffce9,Get while the getting's good.
+Zell,Smug,June 7th,Deer,Male,Music,pronk,https://acnhapi.com/v1/icons/villagers/103,https://acnhapi.com/v1/images/villagers/103,#4c3317,#fffce9,Clothes totally make the mammal.
+Bruce,Cranky,May 26th,Deer,Male,Nature,gruff,https://acnhapi.com/v1/icons/villagers/104,https://acnhapi.com/v1/images/villagers/104,#459aba,#fffce9,Nobody's perfect.
+Deirdre,Uchi,May 4th,Deer,Female,Play,whatevs,https://acnhapi.com/v1/icons/villagers/105,https://acnhapi.com/v1/images/villagers/105,#ddcdca,#4b4496,"Legs of an antelope, heart of an eagle."
+Lopez,Smug,August 20th,Deer,Male,Education,badoom,https://acnhapi.com/v1/icons/villagers/106,https://acnhapi.com/v1/images/villagers/106,#e8b010,#fffce9,Always look both ways before crossing the street.
+Fuchsia,Uchi,September 19th,Deer,Female,Music,precious,https://acnhapi.com/v1/icons/villagers/107,https://acnhapi.com/v1/images/villagers/107,#f993ce,#fffce9,It takes one to know one.
+Beau,Lazy,April 5th,Deer,Male,Nature,saltlick,https://acnhapi.com/v1/icons/villagers/108,https://acnhapi.com/v1/images/villagers/108,#ff791f,#fff2bb,"You snooze, you lose."
+Diana,Snooty,January 4th,Deer,Female,Education,no doy,https://acnhapi.com/v1/icons/villagers/109,https://acnhapi.com/v1/images/villagers/109,#ffebff,#725661,Sometimes you have to lose to win.
+Erik,Lazy,July 27th,Deer,Male,Nature,chow down,https://acnhapi.com/v1/icons/villagers/110,https://acnhapi.com/v1/images/villagers/110,#e8b010,#fffce9,"If you're afraid of wolves, don't go to the woods."
+Goldie,Normal,December 27th,Dog,Female,Nature,woof,https://acnhapi.com/v1/icons/villagers/111,https://acnhapi.com/v1/images/villagers/111,#fff98f,#879b96,A little bit of happiness is better than a lot of anguish.
+Butch,Cranky,November 1st,Dog,Male,Music,ROOOOOWF,https://acnhapi.com/v1/icons/villagers/112,https://acnhapi.com/v1/images/villagers/112,#ffaa3b,#874c25,A house without either a cat or a dog is a sad house indeed.
+Lucky,Lazy,November 4th,Dog,Male,Play,rrr-owch,https://acnhapi.com/v1/icons/villagers/113,https://acnhapi.com/v1/images/villagers/113,#ffffff,#848484,Don't bite the hand that feeds you.
+Biskit,Lazy,May 13th,Dog,Male,Play,dawg,https://acnhapi.com/v1/icons/villagers/114,https://acnhapi.com/v1/images/villagers/114,#ffaa3b,#874c25,Let sleeping dogs lie.
+Bones,Lazy,August 4th,Dog,Male,Play,yip yip,https://acnhapi.com/v1/icons/villagers/115,https://acnhapi.com/v1/images/villagers/115,#ffffff,#848484,A snack a day keeps the vacuum away.
+Portia,Snooty,October 25th,Dog,Female,Fashion,ruffian,https://acnhapi.com/v1/icons/villagers/116,https://acnhapi.com/v1/images/villagers/116,#ffffff,#848484,Charity begins at home.
+Walker,Lazy,June 10th,Dog,Male,Play,wuh,https://acnhapi.com/v1/icons/villagers/117,https://acnhapi.com/v1/images/villagers/117,#ffffff,#848484,"The dog wags his tail, not for you, but for your bread."
+Daisy,Normal,November 16th,Dog,Female,Education,bow-WOW,https://acnhapi.com/v1/icons/villagers/118,https://acnhapi.com/v1/images/villagers/118,#fff98f,#879b96,It's not always a dog-eat-dog world.
+Cookie,Peppy,June 18th,Dog,Female,Fashion,arfer,https://acnhapi.com/v1/icons/villagers/119,https://acnhapi.com/v1/images/villagers/119,#f993ce,#fffce9,Don't lose sight of what you're really after.
+Maddie,Peppy,January 11th,Dog,Female,Play,yippee,https://acnhapi.com/v1/icons/villagers/120,https://acnhapi.com/v1/images/villagers/120,#e8b010,#fffce9,The IT revolution is under way.
+Bea,Normal,October 15th,Dog,Female,Nature,bingo,https://acnhapi.com/v1/icons/villagers/121,https://acnhapi.com/v1/images/villagers/121,#a87850,#fffce9,The perfect pair complements each other.
+Mac,Jock,November 11th,Dog,Male,Fitness,woo woof,https://acnhapi.com/v1/icons/villagers/122,https://acnhapi.com/v1/images/villagers/122,#e8b010,#fffce9,Sometimes life is rough.
+Marcel,Lazy,December 31st,Dog,Male,Play,non,https://acnhapi.com/v1/icons/villagers/123,https://acnhapi.com/v1/images/villagers/123,#ffffff,#848484,There's not a dog so bad that he won't wag his tail.
+Benjamin,Lazy,August 3rd,Dog,Male,Nature,alrighty,https://acnhapi.com/v1/icons/villagers/124,https://acnhapi.com/v1/images/villagers/124,#ffd00d,#9b553a,A good dog deserves a good treat.
+Cherry,Uchi,May 11th,Dog,Female,Music,what what,https://acnhapi.com/v1/icons/villagers/125,https://acnhapi.com/v1/images/villagers/125,#ff6183,#fffce9,"One dog barks at something, the rest bark at him."
+Shep,Smug,November 24th,Dog,Male,Education,baa baa baa,https://acnhapi.com/v1/icons/villagers/126,https://acnhapi.com/v1/images/villagers/126,#c0ab72,#fffce9,Even dogs won't get in the middle of true love.
+Bill,Jock,February 1st,Duck,Male,Play,quacko,https://acnhapi.com/v1/icons/villagers/127,https://acnhapi.com/v1/images/villagers/127,#7a2500,#fffce9,"Even though there's no 'I' in team, there is a 'me'!"
+Joey,Lazy,January 3rd,Duck,Male,Play,bleeeeeck,https://acnhapi.com/v1/icons/villagers/128,https://acnhapi.com/v1/images/villagers/128,#ffd00d,#9b553a,Don't get your feathers all ruffled. Just chill.
+Pate,Peppy,February 23rd,Duck,Female,Fashion,quackle,https://acnhapi.com/v1/icons/villagers/129,https://acnhapi.com/v1/images/villagers/129,#8bcdea,#fffad4,A duck won't bite you.
+Maelle,Snooty,April 8th,Duck,Female,Fashion,duckling,https://acnhapi.com/v1/icons/villagers/130,https://acnhapi.com/v1/images/villagers/130,#ffd00d,#9b553a,A wise duck takes care of its bill.
+Deena,Normal,June 27th,Duck,Female,Education,woowoo,https://acnhapi.com/v1/icons/villagers/131,https://acnhapi.com/v1/images/villagers/131,#798040,#fffad4,Duck...duck...GOOSE!
+Pompom,Peppy,February 11th,Duck,Female,Music,rah rah,https://acnhapi.com/v1/icons/villagers/132,https://acnhapi.com/v1/images/villagers/132,#ffffff,#848484,Happiness is a rainy day!
+Mallary,Snooty,November 17th,Duck,Female,Fashion,quackpth,https://acnhapi.com/v1/icons/villagers/133,https://acnhapi.com/v1/images/villagers/133,#a06fce,#fffce9,Purple is the color of royalty.
+Freckles,Peppy,February 19th,Duck,Female,Fashion,ducky,https://acnhapi.com/v1/icons/villagers/134,https://acnhapi.com/v1/images/villagers/134,#ff6183,#fffce9,Act now before you change your mind!
+Derwin,Lazy,May 25th,Duck,Male,Play,derrrr,https://acnhapi.com/v1/icons/villagers/135,https://acnhapi.com/v1/images/villagers/135,#0961f6,#fffce9,Everything in moderation. Except for snacks.
+Drake,Lazy,June 25th,Duck,Male,Play,quacko,https://acnhapi.com/v1/icons/villagers/136,https://acnhapi.com/v1/images/villagers/136,#459aba,#fffce9,...Quack.
+Scoot,Jock,June 13th,Duck,Male,Fitness,zip zoom,https://acnhapi.com/v1/icons/villagers/137,https://acnhapi.com/v1/images/villagers/137,#78dd62,#28665a,"Some birds avoid the water, ducks look for it."
+Weber,Lazy,June 30th,Duck,Male,Nature,quaa,https://acnhapi.com/v1/icons/villagers/138,https://acnhapi.com/v1/images/villagers/138,#a87850,#fffce9,Today's adults are yesterday's children.
+Miranda,Snooty,April 23rd,Duck,Female,Fashion,quackulous,https://acnhapi.com/v1/icons/villagers/139,https://acnhapi.com/v1/images/villagers/139,#ec7efc,#fffce9,"If the world is flooded, it will be easy for the duck."
+Ketchup,Peppy,July 27th,Duck,Female,Play,bitty,https://acnhapi.com/v1/icons/villagers/140,https://acnhapi.com/v1/images/villagers/140,#ff4040,#fffad4,"When in doubt, eat a tomato!"
+Gloria,Snooty,August 12th,Duck,Female,Fashion,quacker,https://acnhapi.com/v1/icons/villagers/141,https://acnhapi.com/v1/images/villagers/141,#ffffff,#848484,Time is money.
+Molly,Normal,March 7th,Duck,Female,Nature,quackidee,https://acnhapi.com/v1/icons/villagers/142,https://acnhapi.com/v1/images/villagers/142,#e8b010,#fffce9,Like water off a duck's back.
+Quillson,Smug,December 22nd,Duck,Male,Music,ridukulous,https://acnhapi.com/v1/icons/villagers/143,https://acnhapi.com/v1/images/villagers/143,#76b788,#fffce9,There is beauty in everything.
+Opal,Snooty,January 20th,Elephant,Female,Fashion,snoot,https://acnhapi.com/v1/icons/villagers/144,https://acnhapi.com/v1/images/villagers/144,#87e0a9,#219479,"However little you think of an elephant, you can't say it won't fill a pot."
+Dizzy,Lazy,July 14th,Elephant,Male,Play,woo-oo,https://acnhapi.com/v1/icons/villagers/145,https://acnhapi.com/v1/images/villagers/145,#7fa9ff,#fffce9,Keep it mellow.
+Big Top,Lazy,October 3rd,Elephant,Male,Play,villain,https://acnhapi.com/v1/icons/villagers/146,https://acnhapi.com/v1/images/villagers/146,#78dd62,#28665a,A big nose never spoiled a handsome face.
+Eloise,Snooty,December 8th,Elephant,Female,Fashion,tooooot,https://acnhapi.com/v1/icons/villagers/147,https://acnhapi.com/v1/images/villagers/147,#ffd00d,#9b553a,An elephant never forgets.
+Margie,Normal,January 28th,Elephant,Female,Education,tootie,https://acnhapi.com/v1/icons/villagers/148,https://acnhapi.com/v1/images/villagers/148,#ffffff,#848484,Keep your feet on the ground.
+Paolo,Lazy,May 5th,Elephant,Male,Nature,pal,https://acnhapi.com/v1/icons/villagers/149,https://acnhapi.com/v1/images/villagers/149,#f993ce,#fffce9,"When it works, it works."
+Axel,Jock,March 23rd,Elephant,Male,Fitness,WHONK,https://acnhapi.com/v1/icons/villagers/150,https://acnhapi.com/v1/images/villagers/150,#459aba,#fffce9,Do not compare a fly with an elephant.
+Ellie,Normal,May 12th,Elephant,Female,Nature,li'l one,https://acnhapi.com/v1/icons/villagers/151,https://acnhapi.com/v1/images/villagers/151,#c0ab72,#fffce9,You need the sour to highlight the sweet.
+Tucker,Lazy,September 7th,Elephant,Male,Nature,fuzzers,https://acnhapi.com/v1/icons/villagers/152,https://acnhapi.com/v1/images/villagers/152,#e8b010,#fffce9,Time makes fossils of us all.
+Tia,Normal,November 18th,Elephant,Female,Nature,teacup,https://acnhapi.com/v1/icons/villagers/153,https://acnhapi.com/v1/images/villagers/153,#ffffff,#848484,Tea is a cup of life.
+Cyd,Cranky,June 9th,Elephant,Male,Music,rockin',https://acnhapi.com/v1/icons/villagers/154,https://acnhapi.com/v1/images/villagers/154,#ff4040,#fffad4,"Do what you want, but do it loud!"
+Lily,Normal,February 4th,Frog,Female,Education,toady,https://acnhapi.com/v1/icons/villagers/155,https://acnhapi.com/v1/images/villagers/155,#00d1bd,#fffce9,Don't jump to conclusions!
+Ribbot,Jock,February 13th,Frog,Male,Fitness,zzrrbbitt,https://acnhapi.com/v1/icons/villagers/156,https://acnhapi.com/v1/images/villagers/156,#bfbfbf,#5e5e5e,"Never rest, never rust."
+Frobert,Jock,February 8th,Frog,Male,Fitness,fribbit,https://acnhapi.com/v1/icons/villagers/157,https://acnhapi.com/v1/images/villagers/157,#87e0a9,#219479,Always aim high!
+Camofrog,Cranky,June 5th,Frog,Male,Music,ten-hut,https://acnhapi.com/v1/icons/villagers/158,https://acnhapi.com/v1/images/villagers/158,#76b788,#fffce9,What you can't see can't hurt you.
+Drift,Jock,October 9th,Frog,Male,Fitness,dribbit,https://acnhapi.com/v1/icons/villagers/159,https://acnhapi.com/v1/images/villagers/159,#ff791f,#fff2bb,Always go for the gold!
+Wart Jr.,Cranky,August 21st,Frog,Male,Education,grr-ribbit,https://acnhapi.com/v1/icons/villagers/160,https://acnhapi.com/v1/images/villagers/160,#d86808,#fffce9,Age before beauty.
+Puddles,Peppy,January 13th,Frog,Female,Fashion,splish,https://acnhapi.com/v1/icons/villagers/161,https://acnhapi.com/v1/images/villagers/161,#ff6183,#fffce9,Look before you leap.
+Jeremiah,Lazy,July 8th,Frog,Male,Play,nee-deep,https://acnhapi.com/v1/icons/villagers/162,https://acnhapi.com/v1/images/villagers/162,#55cfff,#fffce9,Sleep before you leap.
+Tad,Jock,August 3rd,Frog,Male,Play,sluuuurp,https://acnhapi.com/v1/icons/villagers/163,https://acnhapi.com/v1/images/villagers/163,#76b788,#fffce9,Take a leap!
+Cousteau,Jock,December 17th,Frog,Male,Fitness,oui oui,https://acnhapi.com/v1/icons/villagers/164,https://acnhapi.com/v1/images/villagers/164,#ffd00d,#9b553a,"Jump first, ask questions later."
+Huck,Smug,July 9th,Frog,Male,Fitness,hopper,https://acnhapi.com/v1/icons/villagers/165,https://acnhapi.com/v1/images/villagers/165,#515151,#fffce9,Cold coffee makes for a cold demeanor.
+Prince,Lazy,July 21st,Frog,Male,Play,burrup,https://acnhapi.com/v1/icons/villagers/166,https://acnhapi.com/v1/images/villagers/166,#78dd62,#28665a,Catch more flies with honey than vinegar.
+Jambette,Normal,October 27th,Frog,Female,Fashion,croak-kay,https://acnhapi.com/v1/icons/villagers/167,https://acnhapi.com/v1/images/villagers/167,#0ca54a,#fffce9,It takes more muscles to frown than smile.
+Raddle,Lazy,June 6th,Frog,Male,Nature,aaach—,https://acnhapi.com/v1/icons/villagers/168,https://acnhapi.com/v1/images/villagers/168,#515151,#fffce9,A healthy mind makes for a healthy body.
+Gigi,Snooty,August 11th,Frog,Female,Fashion,ribbette,https://acnhapi.com/v1/icons/villagers/169,https://acnhapi.com/v1/images/villagers/169,#a06fce,#fffce9,Look at the world through rose-colored glasses.
+Croque,Cranky,July 18th,Frog,Male,Nature,as if,https://acnhapi.com/v1/icons/villagers/170,https://acnhapi.com/v1/images/villagers/170,#ff791f,#fff2bb,"Where there's smoke, there's fire."
+Diva,Uchi,October 2nd,Frog,Female,Fitness,ya know,https://acnhapi.com/v1/icons/villagers/171,https://acnhapi.com/v1/images/villagers/171,#a06fce,#fffce9,Eyes are the windows to the soul.
+Henry,Smug,September 21st,Frog,Male,Music,snoozit,https://acnhapi.com/v1/icons/villagers/172,https://acnhapi.com/v1/images/villagers/172,#78dd62,#28665a,The way to a frog's heart is through his stomach.
+Chevre,Normal,March 6th,Goat,Female,Education,la baa,https://acnhapi.com/v1/icons/villagers/173,https://acnhapi.com/v1/images/villagers/173,#ffffff,#848484,"If you're gonna dream, dream big."
+Nan,Normal,August 24th,Goat,Female,Nature,kid,https://acnhapi.com/v1/icons/villagers/174,https://acnhapi.com/v1/images/villagers/174,#515151,#fffce9,Nanny-nanny boo-boo!
+Billy,Jock,March 25th,Goat,Male,Play,dagnaabit,https://acnhapi.com/v1/icons/villagers/175,https://acnhapi.com/v1/images/villagers/175,#d86808,#fffce9,Old dogs can learn new tricks.
+Gruff,Cranky,August 29th,Goat,Male,Music,bleh eh eh,https://acnhapi.com/v1/icons/villagers/176,https://acnhapi.com/v1/images/villagers/176,#78dd62,#28665a,Don't burn bridges.
+Velma,Snooty,January 14th,Goat,Female,Education,blih,https://acnhapi.com/v1/icons/villagers/177,https://acnhapi.com/v1/images/villagers/177,#ff6183,#fffce9,"Work smarter, not harder."
+Kidd,Smug,June 28th,Goat,Male,Education,wut,https://acnhapi.com/v1/icons/villagers/178,https://acnhapi.com/v1/images/villagers/178,#d9d9ff,#4f5d72,"Be yourself, everyone else is already taken."
+Pashmina,Uchi,December 26th,Goat,Female,Music,kidders,https://acnhapi.com/v1/icons/villagers/179,https://acnhapi.com/v1/images/villagers/179,#e2856b,#fffce9,"Before you judge someone, walk a mile in their hooves."
+Sherb,Lazy,January 18th,Goat,Male,Nature,bawwww,https://acnhapi.com/v1/icons/villagers/180,https://acnhapi.com/v1/images/villagers/180,#bff2ff,#85a2af,Forty winks is never enough.
+Cesar,Cranky,September 6th,Gorilla,Male,Fitness,highness,https://acnhapi.com/v1/icons/villagers/181,https://acnhapi.com/v1/images/villagers/181,#ff791f,#fff2bb,"As soon as you can grow a mustache, do it."
+Peewee,Cranky,September 11th,Gorilla,Male,Fitness,li'l bitty baby,https://acnhapi.com/v1/icons/villagers/182,https://acnhapi.com/v1/images/villagers/182,#7fa9ff,#fffce9,Look behind you.
+Boone,Jock,September 12th,Gorilla,Male,Fitness,baboom,https://acnhapi.com/v1/icons/villagers/183,https://acnhapi.com/v1/images/villagers/183,#ffaa3b,#874c25,Never settle for second best.
+Louie,Jock,March 26th,Gorilla,Male,Fitness,hoo hoo ha,https://acnhapi.com/v1/icons/villagers/184,https://acnhapi.com/v1/images/villagers/184,#d86808,#fffce9,It's all about the muscle.
+Boyd,Cranky,October 1st,Gorilla,Male,Fitness,uh-oh,https://acnhapi.com/v1/icons/villagers/185,https://acnhapi.com/v1/images/villagers/185,#7a2500,#fffce9,There's always time to take a second look.
+Violet,Snooty,September 1st,Gorilla,Female,Fitness,sweetie,https://acnhapi.com/v1/icons/villagers/186,https://acnhapi.com/v1/images/villagers/186,#ec7efc,#fffce9,Pearls are a pink gorilla's best friend.
+Al,Lazy,October 18th,Gorilla,Male,Fitness,ayyyeee,https://acnhapi.com/v1/icons/villagers/187,https://acnhapi.com/v1/images/villagers/187,#798040,#fffad4,Life is a buffet. Always go back for seconds.
+Rocket,Uchi,April 14th,Gorilla,Female,Fitness,vroom,https://acnhapi.com/v1/icons/villagers/188,https://acnhapi.com/v1/images/villagers/188,#f993ce,#fffce9,Art feeds the soul. So does pizza.
+Hans,Smug,December 5th,Gorilla,Male,Fitness,groovy,https://acnhapi.com/v1/icons/villagers/189,https://acnhapi.com/v1/images/villagers/189,#ffffff,#848484,One good turn deserves another.
+Hamlet,Jock,May 30th,Hamster,Male,Play,hammie,https://acnhapi.com/v1/icons/villagers/190,https://acnhapi.com/v1/images/villagers/190,#ffd00d,#9b553a,The ear's the thing.
+Apple,Peppy,September 24th,Hamster,Female,Play,cheekers,https://acnhapi.com/v1/icons/villagers/191,https://acnhapi.com/v1/images/villagers/191,#ff6183,#fffce9,One rotten apple spoils the barrel.
+Graham,Smug,June 20th,Hamster,Male,Education,indeed,https://acnhapi.com/v1/icons/villagers/192,https://acnhapi.com/v1/images/villagers/192,#ffd00d,#9b553a,Knowledge is power.
+Rodney,Smug,November 10th,Hamster,Male,Music,le ham,https://acnhapi.com/v1/icons/villagers/193,https://acnhapi.com/v1/images/villagers/193,#459aba,#fffce9,Everything is temporary.
+Soleil,Snooty,August 9th,Hamster,Female,Education,tarnation,https://acnhapi.com/v1/icons/villagers/194,https://acnhapi.com/v1/images/villagers/194,#ff791f,#fff2bb,Sometimes dreams are merely dreams.
+Clay,Lazy,October 19th,Hamster,Male,Nature,thump,https://acnhapi.com/v1/icons/villagers/195,https://acnhapi.com/v1/images/villagers/195,#7a2500,#fffce9,Life is just a bowl of cherries.
+Flurry,Normal,January 30th,Hamster,Female,Nature,powderpuff,https://acnhapi.com/v1/icons/villagers/196,https://acnhapi.com/v1/images/villagers/196,#ffffff,#848484,"Squeak your mind, even if your voice shakes."
+Hamphrey,Cranky,February 25th,Hamster,Male,Nature,snort,https://acnhapi.com/v1/icons/villagers/197,https://acnhapi.com/v1/images/villagers/197,#515151,#fffce9,Children should be seen and not heard.
+Rocco,Cranky,August 18th,Hippo,Male,Education,hippie,https://acnhapi.com/v1/icons/villagers/198,https://acnhapi.com/v1/images/villagers/198,#87e0a9,#219479,The only thing to fear is fear itself... and wasps!
+Bubbles,Peppy,September 18th,Hippo,Female,Fashion,hipster,https://acnhapi.com/v1/icons/villagers/199,https://acnhapi.com/v1/images/villagers/199,#e8b010,#fffce9,It's best to keep your lips and purse sealed.
+Bertha,Normal,April 25th,Hippo,Female,Education,bloop,https://acnhapi.com/v1/icons/villagers/200,https://acnhapi.com/v1/images/villagers/200,#00d1bd,#fffce9,The best part of spring is the picnics!
+Biff,Jock,March 29th,Hippo,Male,Fitness,squirt,https://acnhapi.com/v1/icons/villagers/201,https://acnhapi.com/v1/images/villagers/201,#7a2500,#fffce9,Eighth place is just the seventh loser.
+Bitty,Snooty,October 6th,Hippo,Female,Education,my dear,https://acnhapi.com/v1/icons/villagers/202,https://acnhapi.com/v1/images/villagers/202,#f993ce,#fffce9,Necessity is the mother of all invention.
+Harry,Cranky,January 7th,Hippo,Male,Education,beach bum,https://acnhapi.com/v1/icons/villagers/203,https://acnhapi.com/v1/images/villagers/203,#e8b010,#fffce9,Patience is a virtue for folks with time.
+Hippeux,Smug,October 15th,Hippo,Male,Education,natch,https://acnhapi.com/v1/icons/villagers/204,https://acnhapi.com/v1/images/villagers/204,#d8cc39,#8b5f57,Mottoes are for the unoriginal.
+Buck,Jock,April 4th,Horse,Male,Fitness,pardner,https://acnhapi.com/v1/icons/villagers/205,https://acnhapi.com/v1/images/villagers/205,#798040,#fffad4,Keep your eyes on the prize.
+Victoria,Peppy,July 11th,Horse,Female,Fitness,sugar cube,https://acnhapi.com/v1/icons/villagers/206,https://acnhapi.com/v1/images/villagers/206,#d8cc39,#8b5f57,Don't put the cart before the horse.
+Savannah,Normal,January 25th,Horse,Female,Music,y'all,https://acnhapi.com/v1/icons/villagers/207,https://acnhapi.com/v1/images/villagers/207,#ffffff,#848484,Keep your chin up!
+Elmer,Lazy,October 5th,Horse,Male,Play,tenderfoot,https://acnhapi.com/v1/icons/villagers/208,https://acnhapi.com/v1/images/villagers/208,#d86808,#fffce9,"The horse doesn't pull the cart, the oats do."
+Roscoe,Cranky,June 16th,Horse,Male,Music,nay,https://acnhapi.com/v1/icons/villagers/209,https://acnhapi.com/v1/images/villagers/209,#515151,#fffce9,Trouble rides a fast horse.
+Winnie,Peppy,January 31st,Horse,Female,Fashion,hay-OK,https://acnhapi.com/v1/icons/villagers/210,https://acnhapi.com/v1/images/villagers/210,#c0ab72,#fffce9,"Smile, and the world smiles with you."
+Ed,Smug,September 16th,Horse,Male,Nature,greenhorn,https://acnhapi.com/v1/icons/villagers/211,https://acnhapi.com/v1/images/villagers/211,#55cfff,#fffce9,Beauty is pretty!
+Cleo,Snooty,February 9th,Horse,Female,Education,sugar,https://acnhapi.com/v1/icons/villagers/212,https://acnhapi.com/v1/images/villagers/212,#a06fce,#fffce9,There's something lovable in all of us.
+Peaches,Normal,November 28th,Horse,Female,Education,neighbor,https://acnhapi.com/v1/icons/villagers/213,https://acnhapi.com/v1/images/villagers/213,#f993ce,#fffce9,Every day is a gift.
+Annalise,Snooty,December 2nd,Horse,Female,Fashion,nipper,https://acnhapi.com/v1/icons/villagers/214,https://acnhapi.com/v1/images/villagers/214,#7c6559,#eac113,Let gossip go in one ear and out the other.
+Clyde,Lazy,May 1st,Horse,Male,Play,clip clawp,https://acnhapi.com/v1/icons/villagers/215,https://acnhapi.com/v1/images/villagers/215,#d8cc39,#8b5f57,The grass is always greener.
+Colton,Smug,May 22nd,Horse,Male,Nature,check it,https://acnhapi.com/v1/icons/villagers/216,https://acnhapi.com/v1/images/villagers/216,#ffffff,#848484,Make hay while the sun shines.
+Papi,Lazy,January 10th,Horse,Male,Nature,haaay,https://acnhapi.com/v1/icons/villagers/217,https://acnhapi.com/v1/images/villagers/217,#d86808,#fffce9,Never say neigh.
+Julian,Smug,March 15th,Horse,Male,Music,glitter,https://acnhapi.com/v1/icons/villagers/218,https://acnhapi.com/v1/images/villagers/218,#3fd8e0,#fffce9,Never trot when you can prance.
+Reneigh,Uchi,June 4th,Horse,Female,Play,ayup yup,https://acnhapi.com/v1/icons/villagers/219,https://acnhapi.com/v1/images/villagers/219,#76494e,#fffce9,"You can only be you, so be the best you that you can be."
+Yuka,Snooty,July 20th,Koala,Female,Fashion,tsk tsk,https://acnhapi.com/v1/icons/villagers/220,https://acnhapi.com/v1/images/villagers/220,#194c89,#fffad4,Beauty is in the eye of the beholder.
+Alice,Normal,August 19th,Koala,Female,Education,guvnor,https://acnhapi.com/v1/icons/villagers/221,https://acnhapi.com/v1/images/villagers/221,#e8b010,#fffce9,Treat others as you would like to be treated.
+Melba,Normal,April 12th,Koala,Female,Education,toasty,https://acnhapi.com/v1/icons/villagers/222,https://acnhapi.com/v1/images/villagers/222,#e4b887,#fffce9,A friend who shares is a friend who cares.
+Sydney,Normal,June 21st,Koala,Female,Music,sunshine,https://acnhapi.com/v1/icons/villagers/223,https://acnhapi.com/v1/images/villagers/223,#7352e8,#fffce9,Sail wherever the wind takes you.
+Gonzo,Cranky,October 13th,Koala,Male,Nature,mate,https://acnhapi.com/v1/icons/villagers/224,https://acnhapi.com/v1/images/villagers/224,#bfbfbf,#5e5e5e,"Brothers are brothers, cheese is cheese."
+Ozzie,Lazy,May 7th,Koala,Male,Play,ol' bear,https://acnhapi.com/v1/icons/villagers/225,https://acnhapi.com/v1/images/villagers/225,#bfbfbf,#5e5e5e,Half a loaf is better than none.
+Canberra,Uchi,May 14th,Koala,Female,Play,nuh uh,https://acnhapi.com/v1/icons/villagers/226,https://acnhapi.com/v1/images/villagers/226,#ff791f,#fff2bb,It's never too late to start over.
+Lyman,Jock,October 12th,Koala,Male,Play,chips,https://acnhapi.com/v1/icons/villagers/227,https://acnhapi.com/v1/images/villagers/227,#a8e989,#878e86,Eucalyptus is the spice of life.
+Eugene,Smug,October 26th,Koala,Male,Music,yeah buddy,https://acnhapi.com/v1/icons/villagers/228,https://acnhapi.com/v1/images/villagers/228,#4c3317,#fffce9,Imitation is the sincerest form of flattery.
+Kitt,Normal,October 11th,Kangaroo,Female,Education,child,https://acnhapi.com/v1/icons/villagers/229,https://acnhapi.com/v1/images/villagers/229,#c0ab72,#fffce9,Funny parents have funny kids.
+Mathilda,Snooty,November 12th,Kangaroo,Female,Fitness,wee baby,https://acnhapi.com/v1/icons/villagers/230,https://acnhapi.com/v1/images/villagers/230,#515151,#fffce9,Nail polish is thicker than water.
+Carrie,Normal,December 5th,Kangaroo,Female,Nature,little one,https://acnhapi.com/v1/icons/villagers/231,https://acnhapi.com/v1/images/villagers/231,#e8b010,#fffce9,A mother's work is never done.
+Astrid,Snooty,September 8th,Kangaroo,Female,Music,my pet,https://acnhapi.com/v1/icons/villagers/232,https://acnhapi.com/v1/images/villagers/232,#ffffff,#848484,The apple doesn't fall far from the tree.
+Sylvia,Uchi,May 3rd,Kangaroo,Female,Music,boing,https://acnhapi.com/v1/icons/villagers/233,https://acnhapi.com/v1/images/villagers/233,#a06fce,#fffce9,Hop first; ask questions later.
+Walt,Cranky,April 24th,Kangaroo,Male,Fitness,pockets,https://acnhapi.com/v1/icons/villagers/234,https://acnhapi.com/v1/images/villagers/234,#acc8cf,#498992,Take the good with the bad.
+Rooney,Cranky,December 1st,Kangaroo,Male,Fitness,punches,https://acnhapi.com/v1/icons/villagers/235,https://acnhapi.com/v1/images/villagers/235,#3fd8e0,#fffce9,Bob and weave! Bob and weave!
+Marcie,Normal,May 31st,Kangaroo,Female,Nature,pouches,https://acnhapi.com/v1/icons/villagers/236,https://acnhapi.com/v1/images/villagers/236,#f993ce,#fffce9,The road to a friend's house is never long.
+Bud,Jock,August 8th,Lion,Male,Fitness,shredded,https://acnhapi.com/v1/icons/villagers/237,https://acnhapi.com/v1/images/villagers/237,#d86808,#fffce9,You're not living unless you're sweating!
+Elvis,Cranky,July 23rd,Lion,Male,Education,unh-hunh,https://acnhapi.com/v1/icons/villagers/238,https://acnhapi.com/v1/images/villagers/238,#ffd00d,#9b553a,Better a live coward than a forgotten hero.
+Rex,Lazy,July 24th,Lion,Male,Nature,cool cat,https://acnhapi.com/v1/icons/villagers/239,https://acnhapi.com/v1/images/villagers/239,#ffaa3b,#874c25,"Three wrongs don't make a right, but three rights make a left."
+Leopold,Smug,August 14th,Lion,Male,Education,lion cub,https://acnhapi.com/v1/icons/villagers/240,https://acnhapi.com/v1/images/villagers/240,#e4b887,#fffce9,"The bigger the fish, the bigger your dinner."
+Mott,Jock,July 10th,Lion,Male,Fitness,cagey,https://acnhapi.com/v1/icons/villagers/241,https://acnhapi.com/v1/images/villagers/241,#d8cc39,#8b5f57,The lion's share goes to the lion.
+Rory,Jock,August 7th,Lion,Male,Music,capital,https://acnhapi.com/v1/icons/villagers/242,https://acnhapi.com/v1/images/villagers/242,#ff791f,#fff2bb,Set 'em up and knock 'em down.
+Lionel,Smug,July 29th,Lion,Male,Music,precisely,https://acnhapi.com/v1/icons/villagers/243,https://acnhapi.com/v1/images/villagers/243,#e4b887,#fffce9,Love is blind.
+Nana,Normal,August 23rd,Monkey,Female,Education,po po,https://acnhapi.com/v1/icons/villagers/244,https://acnhapi.com/v1/images/villagers/244,#ec7efc,#fffce9,Bread always falls peanut-butter side down.
+Simon,Lazy,January 19th,Monkey,Male,Play,zzzook,https://acnhapi.com/v1/icons/villagers/245,https://acnhapi.com/v1/images/villagers/245,#d8cc39,#8b5f57,Friends go together like peanut butter and bananas.
+Tammi,Peppy,April 2nd,Monkey,Female,Fashion,chimpy,https://acnhapi.com/v1/icons/villagers/246,https://acnhapi.com/v1/images/villagers/246,#ffd00d,#9b553a,Always be down to monkey around!
+Monty,Cranky,December 7th,Monkey,Male,Education,g'tang,https://acnhapi.com/v1/icons/villagers/247,https://acnhapi.com/v1/images/villagers/247,#acc8cf,#498992,No news is good news.
+Elise,Snooty,March 21st,Monkey,Female,Fashion,puh-lease,https://acnhapi.com/v1/icons/villagers/248,https://acnhapi.com/v1/images/villagers/248,#d8cc39,#8b5f57,"Do as I say, not as I do."
+Flip,Jock,November 21st,Monkey,Male,Music,rerack,https://acnhapi.com/v1/icons/villagers/249,https://acnhapi.com/v1/images/villagers/249,#ff791f,#fff2bb,"See no donut, hear no donut, speak no donut."
+Shari,Uchi,April 10th,Monkey,Female,Music,cheeky,https://acnhapi.com/v1/icons/villagers/250,https://acnhapi.com/v1/images/villagers/250,#bfbfbf,#5e5e5e,A good start leads to a good end.
+Deli,Lazy,May 24th,Monkey,Male,Nature,monch,https://acnhapi.com/v1/icons/villagers/251,https://acnhapi.com/v1/images/villagers/251,#c0ab72,#fffce9,"Righty tighty, lefty loosey."
+Dora,Normal,February 18th,Mouse,Female,Education,squeaky,https://acnhapi.com/v1/icons/villagers/252,https://acnhapi.com/v1/images/villagers/252,#ffffff,#848484,The squeaky wheel gets the cheese.
+Limberg,Cranky,October 17th,Mouse,Male,Education,squinky,https://acnhapi.com/v1/icons/villagers/253,https://acnhapi.com/v1/images/villagers/253,#ffaa3b,#874c25,Don't build a better mousetrap.
+Bella,Peppy,December 28th,Mouse,Female,Music,eeks,https://acnhapi.com/v1/icons/villagers/254,https://acnhapi.com/v1/images/villagers/254,#ffffff,#848484,A glamour shot is worth a thousand words.
+Bree,Snooty,July 7th,Mouse,Female,Fashion,cheeseball,https://acnhapi.com/v1/icons/villagers/255,https://acnhapi.com/v1/images/villagers/255,#ffffff,#848484,The gift says more about the giver.
+Samson,Jock,July 5th,Mouse,Male,Fitness,pipsqueak,https://acnhapi.com/v1/icons/villagers/256,https://acnhapi.com/v1/images/villagers/256,#acc8cf,#498992,Squeak softly and carry a big stick.
+Rod,Jock,August 14th,Mouse,Male,Fitness,ace,https://acnhapi.com/v1/icons/villagers/257,https://acnhapi.com/v1/images/villagers/257,#ec7efc,#fffce9,"If you can't beat 'em, work harder."
+Candi,Peppy,April 13th,Mouse,Female,Play,sweetie,https://acnhapi.com/v1/icons/villagers/258,https://acnhapi.com/v1/images/villagers/258,#ff6183,#fffce9,"The players may change, but the music stays the same."
+Rizzo,Cranky,January 17th,Mouse,Male,Education,squee,https://acnhapi.com/v1/icons/villagers/259,https://acnhapi.com/v1/images/villagers/259,#8bcdea,#fffad4,Evil lurks everywhere.
+Anicotti,Peppy,February 24th,Mouse,Female,Fashion,cannoli,https://acnhapi.com/v1/icons/villagers/260,https://acnhapi.com/v1/images/villagers/260,#78dd62,#28665a,The walls have ears.
+Broccolo,Lazy,June 30th,Mouse,Male,Play,eat it,https://acnhapi.com/v1/icons/villagers/261,https://acnhapi.com/v1/images/villagers/261,#55cfff,#fffce9,One nap leads to another.
+Moose,Jock,September 13th,Mouse,Male,Fitness,shorty,https://acnhapi.com/v1/icons/villagers/262,https://acnhapi.com/v1/images/villagers/262,#7fa9ff,#fffce9,A cornered rat will summon the courage to bite a cat.
+Bettina,Normal,June 12th,Mouse,Female,Education,eekers,https://acnhapi.com/v1/icons/villagers/263,https://acnhapi.com/v1/images/villagers/263,#ff791f,#fff2bb,No time like the present!
+Greta,Snooty,September 5th,Mouse,Female,Education,yelp,https://acnhapi.com/v1/icons/villagers/264,https://acnhapi.com/v1/images/villagers/264,#ffffff,#848484,The world is a stage.
+Penelope,Peppy,February 5th,Mouse,Female,Fashion,oh bow,https://acnhapi.com/v1/icons/villagers/265,https://acnhapi.com/v1/images/villagers/265,#c0ab72,#fffce9,One mile or a thousand makes no difference to love.
+Chadder,Smug,December 15th,Mouse,Male,Fitness,fromage,https://acnhapi.com/v1/icons/villagers/266,https://acnhapi.com/v1/images/villagers/266,#ffd00d,#9b553a,Meeting is just the start of us saying goodbye.
+Octavian,Cranky,September 20th,Octopus,Male,Play,sucker,https://acnhapi.com/v1/icons/villagers/267,https://acnhapi.com/v1/images/villagers/267,#ff4040,#fffad4,Don't be a sucker!
+Marina,Normal,June 26th,Octopus,Female,Music,blurp,https://acnhapi.com/v1/icons/villagers/268,https://acnhapi.com/v1/images/villagers/268,#f993ce,#fffce9,"If you can't say something nice, don't say anything at all."
+Zucker,Lazy,March 8th,Octopus,Male,Nature,bloop,https://acnhapi.com/v1/icons/villagers/269,https://acnhapi.com/v1/images/villagers/269,#e4b887,#fffce9,There's no such thing as luck.
+Queenie,Snooty,November 13th,Ostrich,Female,Fashion,chicken,https://acnhapi.com/v1/icons/villagers/270,https://acnhapi.com/v1/images/villagers/270,#a06fce,#fffce9,You never get a second chance to make a first impression.
+Gladys,Normal,January 15th,Ostrich,Female,Education,stretch,https://acnhapi.com/v1/icons/villagers/271,https://acnhapi.com/v1/images/villagers/271,#ffffff,#848484,Smiles are free.
+Sandy,Normal,October 21st,Ostrich,Female,Nature,speedy,https://acnhapi.com/v1/icons/villagers/272,https://acnhapi.com/v1/images/villagers/272,#ff791f,#fff2bb,Soaring through the sky takes more than a pair of wings.
+Sprocket,Jock,December 1st,Ostrich,Male,Music,zort,https://acnhapi.com/v1/icons/villagers/273,https://acnhapi.com/v1/images/villagers/273,#0ca54a,#fffce9,Strike while the iron is hot.
+Julia,Snooty,July 31st,Ostrich,Female,Education,dahling,https://acnhapi.com/v1/icons/villagers/274,https://acnhapi.com/v1/images/villagers/274,#0ca54a,#fffce9,"Cut once, measure twice... Wait— reverse that."
+Cranston,Lazy,September 23rd,Ostrich,Male,Nature,sweatband,https://acnhapi.com/v1/icons/villagers/275,https://acnhapi.com/v1/images/villagers/275,#ffffff,#848484,Hard work beats talent.
+Phil,Smug,November 27th,Ostrich,Male,Music,hurk,https://acnhapi.com/v1/icons/villagers/276,https://acnhapi.com/v1/images/villagers/276,#7352e8,#fffce9,Best not to say too much.
+Blanche,Snooty,December 21st,Ostrich,Female,Nature,quite so,https://acnhapi.com/v1/icons/villagers/277,https://acnhapi.com/v1/images/villagers/277,#ffffff,#848484,Nothing beats personal experience.
+Flora,Peppy,February 9th,Ostrich,Female,Play,pinky,https://acnhapi.com/v1/icons/villagers/278,https://acnhapi.com/v1/images/villagers/278,#ff6183,#fffce9,Pink is the new black.
+Phoebe,Uchi,April 22nd,Ostrich,Female,Fitness,sparky,https://acnhapi.com/v1/icons/villagers/279,https://acnhapi.com/v1/images/villagers/279,#ff791f,#fff2bb,You can't keep a good bird down.
+Apollo,Cranky,July 4th,Eagle,Male,Music,pah,https://acnhapi.com/v1/icons/villagers/280,https://acnhapi.com/v1/images/villagers/280,#ffffff,#848484,What goes up must come down.
+Amelia,Snooty,November 19th,Eagle,Female,Music,cuz,https://acnhapi.com/v1/icons/villagers/281,https://acnhapi.com/v1/images/villagers/281,#ff4040,#fffad4,"Pampering yourself is as important as food, water, and shelter!"
+Pierce,Jock,January 8th,Eagle,Male,Fitness,hawkeye,https://acnhapi.com/v1/icons/villagers/282,https://acnhapi.com/v1/images/villagers/282,#55cfff,#fffce9,"When someone says fly, you ask how high!"
+Buzz,Cranky,December 7th,Eagle,Male,Nature,captain,https://acnhapi.com/v1/icons/villagers/283,https://acnhapi.com/v1/images/villagers/283,#d86808,#fffce9,Pride'll put you in a pickle.
+Avery,Cranky,February 22nd,Eagle,Male,Music,skree-haw,https://acnhapi.com/v1/icons/villagers/284,https://acnhapi.com/v1/images/villagers/284,#c0ab72,#fffce9,What goes around comes around.
+Frank,Cranky,July 30th,Eagle,Male,Education,crushy,https://acnhapi.com/v1/icons/villagers/285,https://acnhapi.com/v1/images/villagers/285,#78dd62,#28665a,Today is the last day of the rest of your life.
+Sterling,Jock,December 11th,Eagle,Male,Fitness,skraaaaw,https://acnhapi.com/v1/icons/villagers/286,https://acnhapi.com/v1/images/villagers/286,#bfbfbf,#5e5e5e,Discretion is the better part of valor.
+Keaton,Smug,June 1st,Eagle,Male,Music,wingo,https://acnhapi.com/v1/icons/villagers/287,https://acnhapi.com/v1/images/villagers/287,#3fd8e0,#fffce9,"Even in a room full of fools, someone is the smartest."
+Celia,Normal,March 25th,Eagle,Female,Nature,feathers,https://acnhapi.com/v1/icons/villagers/288,https://acnhapi.com/v1/images/villagers/288,#ffffff,#848484,It's the thought that counts.
+Aurora,Normal,January 27th,Penguin,Female,Education,b-b-baby,https://acnhapi.com/v1/icons/villagers/289,https://acnhapi.com/v1/images/villagers/289,#ffffff,#848484,Always keep your cool.
+Roald,Jock,January 5th,Penguin,Male,Fitness,b-b-buddy,https://acnhapi.com/v1/icons/villagers/290,https://acnhapi.com/v1/images/villagers/290,#194c89,#fffad4,You must learn to waddle before you can swim.
+Cube,Lazy,January 29th,Penguin,Male,Play,brainfreeze,https://acnhapi.com/v1/icons/villagers/291,https://acnhapi.com/v1/images/villagers/291,#515151,#fffce9,Sometimes you gotta learn to chill.
+Hopper,Cranky,April 6th,Penguin,Male,Music,slushie,https://acnhapi.com/v1/icons/villagers/292,https://acnhapi.com/v1/images/villagers/292,#515151,#fffce9,Always have a comeback.
+Friga,Snooty,October 16th,Penguin,Female,Fashion,brrrmph,https://acnhapi.com/v1/icons/villagers/293,https://acnhapi.com/v1/images/villagers/293,#f2bdc7,#634b4b,You can't learn a life lesson from a fortune cookie.
+Gwen,Snooty,January 23rd,Penguin,Female,Fashion,h-h-h-hon,https://acnhapi.com/v1/icons/villagers/294,https://acnhapi.com/v1/images/villagers/294,#7352e8,#fffce9,"Mind your manners, or someone else will."
+Puck,Lazy,February 21st,Penguin,Male,Fitness,brrrrrrrrr,https://acnhapi.com/v1/icons/villagers/295,https://acnhapi.com/v1/images/villagers/295,#0961f6,#fffce9,A bad attitude will land you in the penalty box.
+Wade,Lazy,October 30th,Penguin,Male,Nature,so it goes,https://acnhapi.com/v1/icons/villagers/296,https://acnhapi.com/v1/images/villagers/296,#ffffff,#848484,"Which came first, the seeds or the sunflower?"
+Boomer,Lazy,February 7th,Penguin,Male,Fitness,human,https://acnhapi.com/v1/icons/villagers/297,https://acnhapi.com/v1/images/villagers/297,#798040,#fffad4,Flying is believing.
+Iggly,Jock,November 2nd,Penguin,Male,Fitness,waddler,https://acnhapi.com/v1/icons/villagers/298,https://acnhapi.com/v1/images/villagers/298,#ffffff,#848484,"Six of one, half dozen of the other."
+Tex,Smug,October 6th,Penguin,Male,Music,picante,https://acnhapi.com/v1/icons/villagers/299,https://acnhapi.com/v1/images/villagers/299,#194c89,#fffad4,Rules were made to be broken.
+Flo,Uchi,September 2nd,Penguin,Female,Music,cha,https://acnhapi.com/v1/icons/villagers/300,https://acnhapi.com/v1/images/villagers/300,#6b75ce,#9ae8df,Always keep a straight face.
+Sprinkle,Peppy,February 20th,Penguin,Female,Play,frappe,https://acnhapi.com/v1/icons/villagers/301,https://acnhapi.com/v1/images/villagers/301,#00d1bd,#fffce9,Frosting is just the icing on the cake.
+Curly,Jock,July 26th,Pig,Male,Fitness,nyoink,https://acnhapi.com/v1/icons/villagers/302,https://acnhapi.com/v1/images/villagers/302,#f993ce,#fffce9,Get fired up!
+Truffles,Peppy,July 28th,Pig,Female,Fashion,snoutie,https://acnhapi.com/v1/icons/villagers/303,https://acnhapi.com/v1/images/villagers/303,#f993ce,#fffce9,The best things in life are free.
+Rasher,Cranky,April 7th,Pig,Male,Music,swine,https://acnhapi.com/v1/icons/villagers/304,https://acnhapi.com/v1/images/villagers/304,#951d43,#fffad4,Don't judge a book by its cover.
+Hugh,Lazy,December 30th,Pig,Male,Play,snortle,https://acnhapi.com/v1/icons/villagers/305,https://acnhapi.com/v1/images/villagers/305,#0961f6,#fffce9,Keep it real. Real chill.
+Lucy,Normal,June 2nd,Pig,Female,Music,snoooink,https://acnhapi.com/v1/icons/villagers/306,https://acnhapi.com/v1/images/villagers/306,#ffffff,#848484,The best is yet to come.
+Spork,Lazy,September 3rd,Pig,Male,Play,snork,https://acnhapi.com/v1/icons/villagers/307,https://acnhapi.com/v1/images/villagers/307,#e4b887,#fffce9,It's never too late for a snack.
+Cobb,Jock,October 7th,Pig,Male,Education,hot dog,https://acnhapi.com/v1/icons/villagers/308,https://acnhapi.com/v1/images/villagers/308,#a8e989,#878e86,Might makes right.
+Boris,Cranky,November 6th,Pig,Male,Nature,schnort,https://acnhapi.com/v1/icons/villagers/309,https://acnhapi.com/v1/images/villagers/309,#194c89,#fffad4,Life's short. Eat chocolate.
+Maggie,Normal,September 3rd,Pig,Female,Nature,schep,https://acnhapi.com/v1/icons/villagers/310,https://acnhapi.com/v1/images/villagers/310,#ffd00d,#9b553a,All a plant needs is love...and sun and water and soil.
+Peggy,Peppy,May 23rd,Pig,Female,Fashion,shweetie,https://acnhapi.com/v1/icons/villagers/311,https://acnhapi.com/v1/images/villagers/311,#e4b887,#fffce9,We're all diamonds in the rough.
+Gala,Normal,March 5th,Pig,Female,Education,snortie,https://acnhapi.com/v1/icons/villagers/312,https://acnhapi.com/v1/images/villagers/312,#feeae7,#97858e,Still waters run deep.
+Chops,Smug,October 13th,Pig,Male,Education,zoink,https://acnhapi.com/v1/icons/villagers/313,https://acnhapi.com/v1/images/villagers/313,#d8cc39,#8b5f57,You can't have your cake and eat it too.
+Kevin,Jock,April 26th,Pig,Male,Play,weeweewee,https://acnhapi.com/v1/icons/villagers/314,https://acnhapi.com/v1/images/villagers/314,#ffaa3b,#874c25,Sometimes it's OK to get dirty.
+Pancetti,Snooty,November 14th,Pig,Female,Music,sooey,https://acnhapi.com/v1/icons/villagers/315,https://acnhapi.com/v1/images/villagers/315,#e2856b,#fffce9,Always get it in writing.
+Agnes,Uchi,April 21st,Pig,Female,Play,snuffle,https://acnhapi.com/v1/icons/villagers/316,https://acnhapi.com/v1/images/villagers/316,#515151,#fffce9,You reap what you sow.
+Bunnie,Peppy,May 9th,Rabbit,Female,Fashion,tee-hee,https://acnhapi.com/v1/icons/villagers/317,https://acnhapi.com/v1/images/villagers/317,#ff791f,#fff2bb,"Hare today, gone tomorrow."
+Dotty,Peppy,March 14th,Rabbit,Female,Fashion,wee one,https://acnhapi.com/v1/icons/villagers/318,https://acnhapi.com/v1/images/villagers/318,#ffffff,#848484,It's always a good hare day.
+Coco,Normal,March 1st,Rabbit,Female,Education,doyoing,https://acnhapi.com/v1/icons/villagers/319,https://acnhapi.com/v1/images/villagers/319,#e4b887,#fffce9,Don't put off till tomorrow what you can do today.
+Snake,Jock,November 3rd,Rabbit,Male,Fitness,bunyip,https://acnhapi.com/v1/icons/villagers/320,https://acnhapi.com/v1/images/villagers/320,#f993ce,#fffce9,A good ninja is neither seen nor heard.
+Gaston,Cranky,October 28th,Rabbit,Male,Education,mon chou,https://acnhapi.com/v1/icons/villagers/321,https://acnhapi.com/v1/images/villagers/321,#ffd00d,#9b553a,An ear for an ear makes it hard to hear.
+Gabi,Peppy,December 16th,Rabbit,Female,Fashion,honeybun,https://acnhapi.com/v1/icons/villagers/322,https://acnhapi.com/v1/images/villagers/322,#ffffff,#848484,The more the merrier.
+Pippy,Peppy,June 14th,Rabbit,Female,Fashion,li'l hare,https://acnhapi.com/v1/icons/villagers/323,https://acnhapi.com/v1/images/villagers/323,#fff98f,#879b96,Fake it till you make it.
+Tiffany,Snooty,January 9th,Rabbit,Female,Fashion,bunbun,https://acnhapi.com/v1/icons/villagers/324,https://acnhapi.com/v1/images/villagers/324,#ffffff,#848484,What is cheap is most costly.
+Genji,Jock,January 21st,Rabbit,Male,Fitness,mochi,https://acnhapi.com/v1/icons/villagers/325,https://acnhapi.com/v1/images/villagers/325,#ffffff,#848484,"Fall down seven times, get up eight."
+Ruby,Peppy,December 25th,Rabbit,Female,Nature,li'l ears,https://acnhapi.com/v1/icons/villagers/326,https://acnhapi.com/v1/images/villagers/326,#ffffff,#848484,You can always take the red-eye.
+Doc,Lazy,March 16th,Rabbit,Male,Education,old bunny,https://acnhapi.com/v1/icons/villagers/327,https://acnhapi.com/v1/images/villagers/327,#0961f6,#fffce9,One cannot live on carrots alone.
+Claude,Lazy,December 3rd,Rabbit,Male,Nature,hopalong,https://acnhapi.com/v1/icons/villagers/328,https://acnhapi.com/v1/images/villagers/328,#d86808,#fffce9,Don't judge a rabbit by its ears.
+Francine,Snooty,January 22nd,Rabbit,Female,Fashion,karat,https://acnhapi.com/v1/icons/villagers/329,https://acnhapi.com/v1/images/villagers/329,#3fd8e0,#fffce9,You can't have wise folks if you don't have fools too.
+Chrissy,Peppy,August 28th,Rabbit,Female,Fashion,sparkles,https://acnhapi.com/v1/icons/villagers/330,https://acnhapi.com/v1/images/villagers/330,#f993ce,#fffce9,A fool and their Bells are soon parted.
+Hopkins,Lazy,March 11th,Rabbit,Male,Nature,thumper,https://acnhapi.com/v1/icons/villagers/331,https://acnhapi.com/v1/images/villagers/331,#55cfff,#fffce9,A wise mammal gives danger a wide berth.
+O'Hare,Smug,July 24th,Rabbit,Male,Nature,amigo,https://acnhapi.com/v1/icons/villagers/332,https://acnhapi.com/v1/images/villagers/332,#7a2500,#fffce9,It's not old; it's vintage.
+Carmen,Peppy,January 6th,Rabbit,Female,Fashion,nougat,https://acnhapi.com/v1/icons/villagers/333,https://acnhapi.com/v1/images/villagers/333,#7a2500,#fffce9,Absence makes the heart grow fonder.
+Bonbon,Peppy,March 3rd,Rabbit,Female,Play,deelish,https://acnhapi.com/v1/icons/villagers/334,https://acnhapi.com/v1/images/villagers/334,#7c6559,#eac113,Hindsight is always 20/20.
+Cole,Lazy,August 10th,Rabbit,Male,Nature,coooooool,https://acnhapi.com/v1/icons/villagers/335,https://acnhapi.com/v1/images/villagers/335,#515151,#fffce9,Little pitchers have big ears.
+Mira,Uchi,July 6th,Rabbit,Female,Fitness,cottontail,https://acnhapi.com/v1/icons/villagers/336,https://acnhapi.com/v1/images/villagers/336,#fff80d,#9b8986,Always help a friend in need.
+Tank,Jock,May 6th,Rhino,Male,Fitness,kerPOW,https://acnhapi.com/v1/icons/villagers/337,https://acnhapi.com/v1/images/villagers/337,#8bcdea,#fffad4,Remember to keep your core muscles engaged!
+Rhonda,Normal,January 24th,Rhino,Female,Music,bigfoot,https://acnhapi.com/v1/icons/villagers/338,https://acnhapi.com/v1/images/villagers/338,#ffffff,#848484,Don't look down your nose at people!
+Spike,Cranky,June 17th,Rhino,Male,Nature,punk,https://acnhapi.com/v1/icons/villagers/339,https://acnhapi.com/v1/images/villagers/339,#ff791f,#fff2bb,Keep your eye on the ball.
+Hornsby,Lazy,March 20th,Rhino,Male,Nature,schnozzle,https://acnhapi.com/v1/icons/villagers/340,https://acnhapi.com/v1/images/villagers/340,#0961f6,#fffce9,You can't hit a mosquito with a horseshoe.
+Merengue,Normal,March 19th,Rhino,Female,Nature,shortcake,https://acnhapi.com/v1/icons/villagers/341,https://acnhapi.com/v1/images/villagers/341,#f2bdc7,#634b4b,Life is a piece of cake.
+Renée,Uchi,May 28th,Rhino,Female,Music,yo yo yo,https://acnhapi.com/v1/icons/villagers/342,https://acnhapi.com/v1/images/villagers/342,#ec7efc,#fffce9,Reckless youth makes rueful age.
+Vesta,Normal,April 16th,Sheep,Female,Fashion,baaaffo,https://acnhapi.com/v1/icons/villagers/343,https://acnhapi.com/v1/images/villagers/343,#ffffff,#848484,No sweater off my back.
+Baabara,Snooty,March 28th,Sheep,Female,Fashion,daahling,https://acnhapi.com/v1/icons/villagers/344,https://acnhapi.com/v1/images/villagers/344,#8bcdea,#fffad4,Don't just follow the flock.
+Eunice,Normal,April 3rd,Sheep,Female,Fashion,lambchop,https://acnhapi.com/v1/icons/villagers/345,https://acnhapi.com/v1/images/villagers/345,#194c89,#fffad4,There is a point to every encounter.
+Stella,Normal,April 9th,Sheep,Female,Nature,baa-dabing,https://acnhapi.com/v1/icons/villagers/346,https://acnhapi.com/v1/images/villagers/346,#951d43,#fffad4,100% Natural Fiber.
+Cashmere,Snooty,April 2nd,Sheep,Female,Fashion,baaaby,https://acnhapi.com/v1/icons/villagers/347,https://acnhapi.com/v1/images/villagers/347,#bff2ff,#85a2af,100% Wool.
+Willow,Snooty,November 26th,Sheep,Female,Fashion,bo peep,https://acnhapi.com/v1/icons/villagers/348,https://acnhapi.com/v1/images/villagers/348,#fff98f,#879b96,You can't fight your genes.
+Curlos,Smug,May 8th,Sheep,Male,Nature,shearly,https://acnhapi.com/v1/icons/villagers/349,https://acnhapi.com/v1/images/villagers/349,#ffd00d,#9b553a,"If you want to know yourself better, ask your neighbors."
+Wendy,Peppy,August 15th,Sheep,Female,Fashion,lambkins,https://acnhapi.com/v1/icons/villagers/350,https://acnhapi.com/v1/images/villagers/350,#55cfff,#fffce9,Every cloud has a silver lining.
+Timbra,Snooty,October 21st,Sheep,Female,Education,pine nut,https://acnhapi.com/v1/icons/villagers/351,https://acnhapi.com/v1/images/villagers/351,#d86808,#fffce9,Don't pine for the past.
+Frita,Uchi,July 16th,Sheep,Female,Music,oh ewe,https://acnhapi.com/v1/icons/villagers/352,https://acnhapi.com/v1/images/villagers/352,#ffaa3b,#874c25,Don't sweat the small potatoes.
+Muffy,Uchi,February 14th,Sheep,Female,Music,nightshade,https://acnhapi.com/v1/icons/villagers/353,https://acnhapi.com/v1/images/villagers/353,#515151,#fffce9,There's a black sheep in every family.
+Pietro,Smug,April 19th,Sheep,Male,Music,honk honk,https://acnhapi.com/v1/icons/villagers/354,https://acnhapi.com/v1/images/villagers/354,#ff4040,#fffad4,Be the class clown.
+Dom,Jock,March 18th,Sheep,Male,Play,indeedaroo,https://acnhapi.com/v1/icons/villagers/355,https://acnhapi.com/v1/images/villagers/355,#feeae7,#97858e,Be true to your most shiny self.
+Peanut,Peppy,June 8th,Squirrel,Female,Fashion,slacker,https://acnhapi.com/v1/icons/villagers/356,https://acnhapi.com/v1/images/villagers/356,#ec7efc,#fffce9,Never take a nibble when you can take a bite.
+Blaire,Snooty,July 3rd,Squirrel,Female,Fashion,nutlet,https://acnhapi.com/v1/icons/villagers/357,https://acnhapi.com/v1/images/villagers/357,#515151,#fffce9,Practice makes perfect.
+Filbert,Lazy,June 3rd,Squirrel,Male,Nature,bucko,https://acnhapi.com/v1/icons/villagers/358,https://acnhapi.com/v1/images/villagers/358,#55cfff,#fffce9,Don't go nuts or anything.
+Pecan,Snooty,September 10th,Squirrel,Female,Fashion,chipmunk,https://acnhapi.com/v1/icons/villagers/359,https://acnhapi.com/v1/images/villagers/359,#7a2500,#fffce9,Promises are like pie crusts— they're made to be broken.
+Nibbles,Peppy,July 19th,Squirrel,Female,Fashion,niblet,https://acnhapi.com/v1/icons/villagers/360,https://acnhapi.com/v1/images/villagers/360,#00d1bd,#fffce9,"Appearances are, like, totally deceiving."
+Agent S,Peppy,July 2nd,Squirrel,Female,Fitness,sidekick,https://acnhapi.com/v1/icons/villagers/361,https://acnhapi.com/v1/images/villagers/361,#0961f6,#fffce9,You gotta put the pedal to the metal!
+Caroline,Normal,July 15th,Squirrel,Female,Music,hulaaaa,https://acnhapi.com/v1/icons/villagers/362,https://acnhapi.com/v1/images/villagers/362,#ff791f,#fff2bb,New brooms sweep clean.
+Sally,Normal,June 19th,Squirrel,Female,Music,nutmeg,https://acnhapi.com/v1/icons/villagers/363,https://acnhapi.com/v1/images/villagers/363,#ff791f,#fff2bb,Even the smallest acorn may grow into the tallest tree.
+Static,Cranky,July 9th,Squirrel,Male,Music,krzzt,https://acnhapi.com/v1/icons/villagers/364,https://acnhapi.com/v1/images/villagers/364,#a06fce,#fffce9,Lightning never strikes twice.
+Mint,Snooty,May 2nd,Squirrel,Female,Fashion,ahhhhhh,https://acnhapi.com/v1/icons/villagers/365,https://acnhapi.com/v1/images/villagers/365,#87e0a9,#219479,Always lead by example.
+Ricky,Cranky,September 14th,Squirrel,Male,Education,nutcase,https://acnhapi.com/v1/icons/villagers/366,https://acnhapi.com/v1/images/villagers/366,#ffd00d,#9b553a,You gotta break a few shells to get to the nut.
+Cally,Normal,September 4th,Squirrel,Female,Nature,WHEE,https://acnhapi.com/v1/icons/villagers/367,https://acnhapi.com/v1/images/villagers/367,#c0ab72,#fffce9,It's always teatime somewhere.
+Tasha,Snooty,November 30th,Squirrel,Female,Fitness,nice nice,https://acnhapi.com/v1/icons/villagers/368,https://acnhapi.com/v1/images/villagers/368,#194c89,#fffad4,There's no such thing as a safe secret.
+Sylvana,Normal,October 22nd,Squirrel,Female,Nature,hubbub,https://acnhapi.com/v1/icons/villagers/369,https://acnhapi.com/v1/images/villagers/369,#c0ab72,#fffce9,Remember to see the forest between the trees.
+Poppy,Normal,August 5th,Squirrel,Female,Education,nutty,https://acnhapi.com/v1/icons/villagers/370,https://acnhapi.com/v1/images/villagers/370,#db6161,#fffce9,It's all about positive thinking!
+Sheldon,Jock,February 26th,Squirrel,Male,Play,cardio,https://acnhapi.com/v1/icons/villagers/371,https://acnhapi.com/v1/images/villagers/371,#ffaa3b,#874c25,"Winners don't quit, and quitters never win."
+Marshal,Smug,September 29th,Squirrel,Male,Music,sulky,https://acnhapi.com/v1/icons/villagers/372,https://acnhapi.com/v1/images/villagers/372,#ffffff,#848484,Seize the day.
+Hazel,Uchi,August 30th,Squirrel,Female,Play,uni-wow,https://acnhapi.com/v1/icons/villagers/373,https://acnhapi.com/v1/images/villagers/373,#ffaa3b,#874c25,Never say never!
+Rolf,Cranky,August 22nd,Tiger,Male,Fitness,grrrolf,https://acnhapi.com/v1/icons/villagers/374,https://acnhapi.com/v1/images/villagers/374,#ffffff,#848484,Don't skip lunch. Ever.
+Rowan,Jock,August 26th,Tiger,Male,Fitness,mango,https://acnhapi.com/v1/icons/villagers/375,https://acnhapi.com/v1/images/villagers/375,#ff791f,#fff2bb,Refuse to lose.
+Tybalt,Jock,August 19th,Tiger,Male,Play,grrrRAH,https://acnhapi.com/v1/icons/villagers/376,https://acnhapi.com/v1/images/villagers/376,#ffd00d,#9b553a,There's no excuse for half-baked potatoes.
+Bangle,Peppy,August 27th,Tiger,Female,Fashion,growf,https://acnhapi.com/v1/icons/villagers/377,https://acnhapi.com/v1/images/villagers/377,#7a2500,#fffce9,Don't blink or you'll miss it.
+Leonardo,Jock,May 15th,Tiger,Male,Fitness,flexin',https://acnhapi.com/v1/icons/villagers/378,https://acnhapi.com/v1/images/villagers/378,#ffd00d,#9b553a,That's the way the energy bar crumbles.
+Claudia,Snooty,November 22nd,Tiger,Female,Music,ooh la la,https://acnhapi.com/v1/icons/villagers/379,https://acnhapi.com/v1/images/villagers/379,#ec7efc,#fffce9,A tiger can't change its stripes.
+Bianca,Peppy,December 13th,Tiger,Female,Play,glimmer,https://acnhapi.com/v1/icons/villagers/380,https://acnhapi.com/v1/images/villagers/380,#ffffff,#848484,There is such a thing as love at first sight.
+Chief,Cranky,December 19th,Wolf,Male,Music,harrumph,https://acnhapi.com/v1/icons/villagers/381,https://acnhapi.com/v1/images/villagers/381,#ffaa3b,#874c25,Don't wish it were easier; wish you were better.
+Lobo,Cranky,November 5th,Wolf,Male,Education,ah-rooooo,https://acnhapi.com/v1/icons/villagers/382,https://acnhapi.com/v1/images/villagers/382,#7352e8,#fffce9,"If it's not one thing, it's another."
+Wolfgang,Cranky,November 25th,Wolf,Male,Education,snarrrl,https://acnhapi.com/v1/icons/villagers/383,https://acnhapi.com/v1/images/villagers/383,#194c89,#fffad4,Don't be afraid to show your fangs.
+Whitney,Snooty,September 17th,Wolf,Female,Fashion,snappy,https://acnhapi.com/v1/icons/villagers/384,https://acnhapi.com/v1/images/villagers/384,#bff2ff,#85a2af,Don't cry wolf unless you mean it.
+Dobie,Cranky,February 17th,Wolf,Male,Nature,ohmmm,https://acnhapi.com/v1/icons/villagers/385,https://acnhapi.com/v1/images/villagers/385,#798040,#fffad4,Old longings never truly fade.
+Freya,Snooty,December 14th,Wolf,Female,Fashion,uff da,https://acnhapi.com/v1/icons/villagers/386,https://acnhapi.com/v1/images/villagers/386,#ff6183,#fffce9,Don't stray too far from the pack.
+Fang,Cranky,December 18th,Wolf,Male,Education,cha-chomp,https://acnhapi.com/v1/icons/villagers/387,https://acnhapi.com/v1/images/villagers/387,#ddcdca,#4b4496,"You mess with the wolf, you get the fangs."
+Vivian,Snooty,January 26th,Wolf,Female,Education,piffle,https://acnhapi.com/v1/icons/villagers/388,https://acnhapi.com/v1/images/villagers/388,#e4b887,#fffce9,Onwards and upwards!
+Skye,Normal,March 24th,Wolf,Female,Music,airmail,https://acnhapi.com/v1/icons/villagers/389,https://acnhapi.com/v1/images/villagers/389,#3fd8e0,#fffce9,Love makes the world go 'round.
+Kyle,Smug,December 6th,Wolf,Male,Music,alpha,https://acnhapi.com/v1/icons/villagers/390,https://acnhapi.com/v1/images/villagers/390,#e8b010,#fffce9,Never trust a sheep in wolf's clothing.
+Audie,Peppy,August 31st,Wolf,Female,Fitness,foxtrot,https://acnhapi.com/v1/icons/villagers/391,https://acnhapi.com/v1/images/villagers/391,#ff791f,#fff2bb,Be the kind of person your future self won't regret having been.
